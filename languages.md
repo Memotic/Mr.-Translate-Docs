@@ -4,21 +4,18 @@ description: Supported languages to translate to and from
 
 # Languages
 
-| Language | Code |
-| :--- | :--- |
-| Afrikaans | `af` |
-| Albanian | `sq` |
-| Amharic | `am` |
-| Arabic | `ar` |
-| Armenian | `hy` |
-| Azerbaijani | `az` |
-| Basque | `eu` |
-| Belarusian | `be` |
-| Bengali | `bn` |
-| Bosnian | `bs` |
-| Bulgarian | `bg` |
-| Cantonese \(Traditional\) | `yue` |
-| Catalan | `ca` |
-| Cebuano | `ceb` |
-|  |  |
+| Language | Code | Backends |
+| :--- | :--- | :--- |
+| Afrikaans | `af` | Azure |
+| Albanian | `sq` | Google |
+| Amharic | `am` | Google |
+| Arabic | `ar` | Azure |
+| Armenian | `hy` | Google |
+| Azerbaijani | `az` | Google |
+| Basque | `eu` | Google |
+| Belarusian | `be` | Google |
+| Bengali | `bn` | Google |
+| Bosnian | `bs` | Google |
+| Bulgarian | `bg` | Azure |
+|  |  |  |
 
