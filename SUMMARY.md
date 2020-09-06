@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Mr. Translate](README.md)
 * [Languages](languages.md)
 
