@@ -1,0 +1,3 @@
+async-translate
+async-translate[google]
+async-translate[azure]
