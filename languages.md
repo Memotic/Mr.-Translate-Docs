@@ -18,12 +18,12 @@ description: Supported languages to translate to and from
 | Bengali | `bn` | Google |
 | Bosnian | `bs` | All |
 | Bulgarian | `bg` | All |
-| Cantonese (Traditional) | `yue` | Azure |
+| Cantonese \(Traditional\) | `yue` | Azure |
 | Catalan | `ca` | All |
 | Cebuano | `ceb` | Google |
 | Chichewa | `ny` | Google |
-| Chinese (Simplified) | `zh-CN` | All |
-| Chinese (Traditional) | `zh-TW` | Google |
+| Chinese \(Simplified\) | `zh-CN` | All |
+| Chinese \(Traditional\) | `zh-TW` | Google |
 | Chinese Simplified | `zh-Hans` | Azure |
 | Chinese Traditional | `zh-Hant` | Azure |
 | Corsican | `co` | Google |
@@ -64,12 +64,12 @@ description: Supported languages to translate to and from
 | Kazakh | `kk` | All |
 | Khmer | `km` | Google |
 | Kinyarwanda | `rw` | Google |
-| Klingon (Latin) | `tlh-Latn` | Azure |
-| Klingon (pIqaD) | `tlh-Piqd` | Azure |
+| Klingon \(Latin\) | `tlh-Latn` | Azure |
+| Klingon \(pIqaD\) | `tlh-Piqd` | Azure |
 | Korean | `ko` | All |
-| Kurdish (Central) | `ku` | Azure |
-| Kurdish (Kurmanji) | `ku` | Google |
-| Kurdish (Northern) | `kmr` | Azure |
+| Kurdish \(Central\) | `ku` | Azure |
+| Kurdish \(Kurmanji\) | `ku` | Google |
+| Kurdish \(Northern\) | `kmr` | Azure |
 | Kyrgyz | `ky` | Google |
 | Lao | `lo` | Google |
 | Latin | `la` | Google |
@@ -84,17 +84,17 @@ description: Supported languages to translate to and from
 | Maori | `mi` | All |
 | Marathi | `mr` | All |
 | Mongolian | `mn` | Google |
-| Myanmar (Burmese) | `my` | Google |
+| Myanmar \(Burmese\) | `my` | Google |
 | Nepali | `ne` | Google |
 | Norwegian | `nb` | All |
 | Odia | `or` | Azure |
-| Odia (Oriya) | `or` | Google |
+| Odia \(Oriya\) | `or` | Google |
 | Pashto | `ps` | All |
 | Persian | `fa` | All |
 | Polish | `pl` | All |
 | Portuguese | `pt` | Google |
-| Portuguese (Brazil) | `pt` | Azure |
-| Portuguese (Portugal) | `pt-pt` | Azure |
+| Portuguese \(Brazil\) | `pt` | Azure |
+| Portuguese \(Portugal\) | `pt-pt` | Azure |
 | Punjabi | `pa` | All |
 | Querétaro Otomi | `otq` | Azure |
 | Romanian | `ro` | All |
@@ -102,8 +102,8 @@ description: Supported languages to translate to and from
 | Samoan | `sm` | All |
 | Scots Gaelic | `gd` | Google |
 | Serbian | `sr` | Google |
-| Serbian (Cyrillic) | `sr-Cyrl` | Azure |
-| Serbian (Latin) | `sr-Latn` | Azure |
+| Serbian \(Cyrillic\) | `sr-Cyrl` | Azure |
+| Serbian \(Latin\) | `sr-Latn` | Azure |
 | Sesotho | `st` | Google |
 | Shona | `sn` | Google |
 | Sindhi | `sd` | Google |
