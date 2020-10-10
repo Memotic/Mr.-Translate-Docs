@@ -1,25 +1,16 @@
 # How to Translate
 
-## Getting Super Powers
+Get started translating messages easily by using `/` and the language code you want to translate to, or by reacting to a message with a supported flag.
 
-Becoming a super hero is a fairly straight forward process:
+## Using Commands to Translate
 
-```
-$ give me super-powers
-```
+The default prefix is `/`. Use the prefix and the language code you want to translate to followed by the text you want translated like so:
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+![Translating Spanish to English using the command](.gitbook/assets/image.png)
 
-Once you're strong enough, save the world:
+### Using Flag Reactions to Translate
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+If you want to translate a message without having to copy and paste it, react to it with a flag. The bot will react with the same flag if it is supported to prevent translating to the same language multiple times. 
 
-
+![Translating Arabic to English using flag reactions.](.gitbook/assets/screen-shot-2020-10-10-at-2.36.13-pm.png)
 
