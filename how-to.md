@@ -1,10 +1,14 @@
 # How to Translate
 
-Get started translating messages easily by using `/` and the language code you want to translate to, or by reacting to a message with a supported flag.
+Get started translating messages easily by using `/` and the language name or language code you want to translate to, or by reacting to a message with a supported flag.
 
 ## Using Commands to Translate
 
-The default prefix is `/`. Use the prefix and the language code you want to translate to followed by the text you want translated like so:
+The default prefix is `/`. Use the prefix and the language you want to translate to followed by what you want to translate. Like this:
+
+![Translating English to Turkish using the language name](.gitbook/assets/image%20%282%29.png)
+
+Or you can use the language code like so:
 
 ![Translating Spanish to English using the command](.gitbook/assets/image.png)
 
