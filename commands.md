@@ -34,7 +34,7 @@ Only members with the Manage Server permission can use these commands
 
 `/profanity [off|spoiler|on]` - View or set the basic profanity filter \(Azure Provider only!\). Setting to `spoiler` wraps profane words around spoiler tags, `on` replaces them with `*`. Mr. Translate _cannot_ provide a gaurentee on this feature.
 
-`/blcklist [users|channels|roles]` - View the blacklist or add/remove any number of users, channels and roles to/from the blacklist. The blacklist prevents members from interacting with the bot \(including flag translations\). You may use mentions or IDs as the parameters.
+`/blacklist [users|channels|roles]` - View the blacklist or add/remove any number of users, channels and roles to/from the blacklist. The blacklist prevents members from interacting with the bot \(including flag translations\). You may use mentions or IDs as the parameters.
 
 ## Misc. Commands
 
