@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Mr. Translate](README.md)
-* [Support Server](https://discord.gg/qCfhAZq)
 * [How to Translate](how-to.md)
 * [Flag Reactions](flags.md)
 * [Languages](languages.md)
