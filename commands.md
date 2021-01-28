@@ -50,7 +50,3 @@ Only members with the Manage Server permission can use these commands
 
 `/ping` - 🏓 Pong!
 
-
-
-
-

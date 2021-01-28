@@ -22,7 +22,7 @@ description: Supported languages to translate to and from
 | Catalan | `ca` | All |
 | Cebuano | `ceb` | Google |
 | Chichewa | `ny` | Google |
-| Chinese \(Simplified\) | `zh-CN` | All |
+| Chinese \(Simplified\) | `zh-CN` | Google |
 | Chinese \(Traditional\) | `zh-TW` | Google |
 | Chinese Simplified | `zh-Hans` | Azure |
 | Chinese Traditional | `zh-Hant` | Azure |
