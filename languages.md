@@ -28,7 +28,7 @@ description: Supported languages to translate to and from
 | Filipino | `fil` | 🇵🇭 | Azure |
 | Fijian | `fj` | 🇫🇯 | Azure |
 | French | `fr` | 🇫🇷 🥖 | All |
-| French (Canada) | `fr-CA` |  | Azure |
+| French \(Canada\) | `fr-CA` |  | Azure |
 | Irish | `ga` | 🇮🇪 | All |
 | Gujarati | `gu` |  | All |
 | Hebrew | `he` | 🇮🇱 | All |
@@ -44,10 +44,10 @@ description: Supported languages to translate to and from
 | Japanese | `ja` | 🇯🇵 | All |
 | Kazakh | `kk` | 🇰🇿 | All |
 | Khmer | `km` |  | All |
-| Kurdish (Northern) | `kmr` |  | Azure |
+| Kurdish \(Northern\) | `kmr` |  | Azure |
 | Kannada | `kn` |  | All |
 | Korean | `ko` | 🇰🇷 🇰🇵 | All |
-| Kurdish (Central) | `ku` |  | All |
+| Kurdish \(Central\) | `ku` |  | All |
 | Lao | `lo` |  | All |
 | Lithuanian | `lt` | 🇱🇹 | All |
 | Latvian | `lv` | 🇱🇻 | All |
@@ -58,7 +58,7 @@ description: Supported languages to translate to and from
 | Malay | `ms` | 🇲🇾 | All |
 | Maltese | `mt` | 🇲🇹 | All |
 | Hmong Daw | `mww` | 🇱🇦 | Azure |
-| Myanmar (Burmese) | `my` |  | All |
+| Myanmar \(Burmese\) | `my` |  | All |
 | Norwegian | `nb` | 🇧🇻 🇳🇴 🇸🇯 | Azure |
 | Nepali | `ne` | 🇳🇵 | All |
 | Dutch | `nl` | 🇳🇱 | All |
@@ -68,24 +68,24 @@ description: Supported languages to translate to and from
 | Polish | `pl` | 🇵🇱 | All |
 | Dari | `prs` |  | Azure |
 | Pashto | `ps` |  | All |
-| Portuguese (Brazil) | `pt` | 🇧🇷 | All |
-| Portuguese (Portugal) | `pt-PT` |  | Azure |
+| Portuguese \(Brazil\) | `pt` | 🇧🇷 | All |
+| Portuguese \(Portugal\) | `pt-PT` |  | Azure |
 | Romanian | `ro` | 🇷🇴 | All |
 | Russian | `ru` | 🇷🇺 | All |
 | Slovak | `sk` | 🇸🇰 | All |
 | Slovenian | `sl` | 🇸🇮 | All |
 | Samoan | `sm` | 🇦🇸 🇼🇸 | All |
 | Albanian | `sq` |  | All |
-| Serbian (Cyrillic) | `sr-Cyrl` |  | Azure |
-| Serbian (Latin) | `sr-Latn` | 🇷🇸 | Azure |
+| Serbian \(Cyrillic\) | `sr-Cyrl` |  | Azure |
+| Serbian \(Latin\) | `sr-Latn` | 🇷🇸 | Azure |
 | Swedish | `sv` | 🇸🇪 | All |
 | Swahili | `sw` |  | All |
 | Tamil | `ta` |  | All |
 | Telugu | `te` |  | All |
 | Thai | `th` | 🇹🇭 | All |
 | Tigrinya | `ti` |  | Azure |
-| Klingon (Latin) | `tlh-Latn` | 🖖 | Azure |
-| Klingon (pIqaD) | `tlh-Piqd` |  | Azure |
+| Klingon \(Latin\) | `tlh-Latn` | 🖖 | Azure |
+| Klingon \(pIqaD\) | `tlh-Piqd` |  | Azure |
 | Tongan | `to` | 🇹🇴 | Azure |
 | Turkish | `tr` | 🇹🇷 | All |
 | Tahitian | `ty` | 🇵🇫 | Azure |
@@ -93,16 +93,16 @@ description: Supported languages to translate to and from
 | Urdu | `ur` | 🇵🇰 | All |
 | Vietnamese | `vi` | 🇻🇳 | All |
 | Yucatec Maya | `yua` |  | Azure |
-| Cantonese (Traditional) | `yue` | 🇭🇰 | Azure |
+| Cantonese \(Traditional\) | `yue` | 🇭🇰 | Azure |
 | Chinese Simplified | `zh-Hans` | 🇨🇳 | Azure |
 | Chinese Traditional | `zh-Hant` | 🇹🇼 | Azure |
 | Basque | `eu` |  | Google |
 | Belarusian | `be` |  | Google |
 | Cebuano | `ceb` |  | Google |
 | Chichewa | `ny` |  | Google |
-| Chinese (Simplified) | `zh-CN` |  | Google |
-| Chinese (Simplified) | `zh` |  | Google |
-| Chinese (Traditional) | `zh-TW` |  | Google |
+| Chinese \(Simplified\) | `zh-CN` |  | Google |
+| Chinese \(Simplified\) | `zh` |  | Google |
+| Chinese \(Traditional\) | `zh-TW` |  | Google |
 | Corsican | `co` |  | Google |
 | Esperanto | `eo` |  | Google |
 | Filipino | `tl` |  | Google |
@@ -139,4 +139,5 @@ description: Supported languages to translate to and from
 | Yiddish | `yi` |  | Google |
 | Yoruba | `yo` |  | Google |
 | Zulu | `zu` |  | Google |
-|  |  |  |
+|  |  |  |  |
+

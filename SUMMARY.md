@@ -2,7 +2,6 @@
 
 * [Mr. Translate](README.md)
 * [How to Translate](how-to.md)
-* [Flag Reactions](flags.md)
 * [Languages](languages.md)
 * [Commands](commands.md)
 * [Send Feedback](https://feedback.mrtranslate.xyz)
