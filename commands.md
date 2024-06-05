@@ -12,41 +12,48 @@ Paramaters surrounded by `<>` such as `<content>` are required. Parameters surro
 
 `/<language> <content>` - Translate `<content>` to `<language>` . Language can be a language name or code \(See [Languages](languages.md) for a list of supported languages\). Auto-detects the language of `<content`.
 
-`/from <fromLanguage> <toLanguage> <content>` - Translate `<content>` to `<toLanguage>` from `<fromLanguage>` without auto-detecting the language of `<content`.
+Note: The prefix of `/` can be changed with `/settings quick-translate-prefix [newPrefix]`.
 
-`/detect <content>` - Detect the language of `<content>`.
+`/translate <to> <text> [source] [destination] [provider]` - Translate `<text>` to the `<to>` language.
 
-`/languages` - DMs a link to the [supported languages page](languages.md).
+- `<to>` - Destination language name or code. \(See [Languages](languages.md) for a list of supported languages\).
+- `<text>` - Text to translate
+- `[source]` - Optional source language name or code
+- `[destination]` - Optional channel to send the translation to. You and Mr. Translate requires send messages permission in that channel.
+- `[provider]` - Optional provider to translate with. Choices are "azure" and "google"
 
-## View Server Quota
+## View Remaining Characters
 
-`/quota` - View the remaining, total, and used quota for all providers \(default\) or `[provider]`.
+`/characters` - View the remaining, total, and used quota for all providers \(default\) or `[provider]`.
 
 ## Settings
 
 Only members with the Manage Server permission can use these commands
 
-`/prefix [newPrefix]` - View or set the prefix. Default is `/`. Mentioning the bot is always a valid prefix. Ex: `@Mr. Translate#2763 help`.
+`/settings quick-translate-prefix [newPrefix]` - View or set the prefix. Default is `/`. Mentioning the bot is always a valid prefix. Ex: `@Mr. Translate#2763 help`.
 
-`/provider [provider]` - View or set the preferred provider. This sets the default provider to be used when translating. If a language is not supported with the preferred provider, an alternitve one will be used instead.
+`/settings provider [provider]` - View or set the preferred provider. This sets the default provider to be used when translating. If a language is not supported with the preferred provider, an alternitve one will be used instead.
 
-`/flags [on|off]` - Enable or disable flag translations \(See [How to Translate](how-to.md#using-flag-reactions-to-translate)\) for the entire server.
+`/settings flags [on|off]` - Enable or disable flag translations \(See [How to Translate](how-to.md#using-flag-reactions-to-translate)\) for the entire server.
 
-`/profanity [off|spoiler|on]` - View or set the basic profanity filter \(Azure Provider only!\). Setting to `spoiler` wraps profane words around spoiler tags, `on` replaces them with `*`. Mr. Translate _cannot_ provide a guarantee on this feature.
+`/settings profanity [off|spoiler|on]` - View or set the basic profanity filter \(Azure Provider only!\). Setting to `spoiler` wraps profane words around spoiler tags, `on` replaces them with `*`. Mr. Translate _cannot_ provide a guarantee on this feature.
 
-`/blacklist [users|channels|roles]` - View the blacklist or add/remove any number of users, channels and roles to/from the blacklist. The blacklist prevents members from interacting with the bot \(including flag translations\). You may use mentions or IDs as the parameters.
+`/settings limit_large_translations [threshold] [admin_approval]` - Threshold should be set to zero to disable approvals of large translations.
+
+`/settings view` - View the server settings
 
 ## Misc. Commands
 
 `/help` - View basic help & links.
 
-`/info` or `/stats` - View global bot stats.
-
-`/donate` - DMs a link to Mr. Translate's PayPal
-
 `/invite` - DMs links to invite Mr. Translate and to the Support Server.
 
-`/check_perms` - Check if a member is blacklisted.
+## Premium Commands
 
-`/ping` - 🏓 Pong!
+`/premium info` - View info about Mr. Translate premium, Server premium status, and your premium subscriptions
 
+`/premium billing` - Manage your premium subscriptions.
+
+`/premium apply [subscription]` - Apply a premium subscription to your server. `[subscription]` is an optional subscription ID.
+
+`/premium remove` - Remove premium from your server.
